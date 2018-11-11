@@ -1,7 +1,7 @@
 # Pinball
 Pinball Atmel Studio Project for CPSC 321 UNBC
 
-The base code for the Pinball project. This is based on Rafael's miniOS.
+The base code for the Pinball project. This uses miniOS as a base - primarily for the HAL integrations.
 
 <h1>Installing Git on a PC</h1>
 
