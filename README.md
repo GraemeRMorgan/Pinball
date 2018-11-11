@@ -6,10 +6,12 @@ The base code for the Pinball project. This is based on Rafael's miniOS.
 <h1>Installing Git on a PC</h1>
 
 Download git for windows:
-https://gitforwindows.org/
+<a href="https://gitforwindows.org/" target="_blank">Git Download</a>
+
 
 Setup an SSH key:
-https://gist.github.com/adamjohnson/5682757
+<a href="https://gist.github.com/adamjohnson/5682757" target="_blank">SSH Key for GitHub</a>
+
 
 From here you can clone the Git Repo to a destination on your computers unsing the git bash application.
 
@@ -24,4 +26,6 @@ From here you can clone the Git Repo to a destination on your computers unsing t
 </ul>
 
 Here's a quick runthrough of git that I often refer to when I forget what's going on. 
-http://rogerdudler.github.io/git-guide/index.html
+<a href="http://rogerdudler.github.io/git-guide/index.html" target="_blank">Git - No Deep Shit</a>
+
+
